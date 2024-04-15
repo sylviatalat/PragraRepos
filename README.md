@@ -5,8 +5,8 @@ Git
 # Create a repository in GitHub (Remote)
 # Once Repos is created, copy the ssh link of that Repos (or use clone tab if provided) 
 # Paste the link in your local Terminal (git-bash) by using this command:
- git clone -paste link-
- git init
+    git clone -paste link-
+    git init
 
 # You should see the name of the repos that you created and brought to local Terminal, on the left panel
 # Right click on the name of that Repos and creat a file call it README.md
