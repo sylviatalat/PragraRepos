@@ -1,7 +1,5 @@
 ***** DevOps class April 14 summary from a student understanding ******
-
-Git
-
+# Git/GitHub
 # Create a repository in GitHub (Remote)
 # Once Repos is created, copy the ssh link of that Repos (or use clone tab if provided) 
 # Paste the link in your local Terminal (git-bash) by using this command:
